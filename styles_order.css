@@ -1,0 +1,170 @@
+.subject1 {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 45px;
+}
+
+.subject2 {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 25px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 85px;
+}
+
+.textbox4 {
+  margin-left: 130px;
+  position: absolute;
+  line-height: 20px;
+  top: 100px;
+}
+
+.center_Order {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 45px;
+}
+
+.Topicsecond {
+  position: absolute;
+  width: 350px;
+  height: 52px;
+  left: 100px;
+  top: 400px;
+
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 54px;
+
+  color: #2f2f2f;
+}
+
+.textone {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 45px;
+}
+
+.textboxsub1 {
+  margin-left: 100px;
+  position: absolute;
+  line-height: 20px;
+  top: 45px;
+}
+
+.textboxsub2 {
+  margin-left: 100px;
+  position: absolute;
+  width: 800px;
+  height: 180px;
+  top: 85px;
+}
+
+.texttwo {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 240px;
+}
+
+.textboxsub3 {
+  margin-left: 160px;
+  position: absolute;
+  line-height: 20px;
+  top: 290px;
+}
+
+.textthree {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 360px;
+  margin-top: 240px;
+}
+
+.textfour {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 450px;
+  margin-top: 240px;
+}
+
+.textboxsub4 {
+  margin-left: 600px;
+  position: absolute;
+  width: 300px;
+  top: 288px;
+}
+
+.textfive {
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  position: absolute;
+  margin-left: 100px;
+  margin-top: 277px;
+}
+
+.textboxsub5 {
+  margin-left: 160px;
+  position: absolute;
+  line-height: 20px;
+  top: 350px;
+}
+
+.table {
+  text-align: center;
+}
+
+.center-align {
+  font-size: 30px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.row {
+  margin-top: 20px;
+}
+
+.form-control {
+  width: 300px;
+}
+
+.form-control-plaintext {
+  width: 300px;
+}
+
+.btn-coler {
+  width: 200px;
+  height: 40px;
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+  border-radius: 10px;
+  color: white;
+}
+
+.nav-link {
+  font-size: 15px;
+  color: black;
+}
+
+.label-1 {
+  margin-left: 90px;
+}

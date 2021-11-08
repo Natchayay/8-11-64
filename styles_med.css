@@ -1,0 +1,18 @@
+.form-control-plaintext {
+  width: 150px;
+}
+
+.table {
+  text-align: center;
+}
+
+.page-link {
+  color: black;
+  text-align: center;
+  width: 150px;
+  background: #edb0f8 100%;
+}
+
+.btn-coler {
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+}

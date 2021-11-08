@@ -1,0 +1,22 @@
+.center-align {
+  text-align: center;
+}
+
+.nav-link {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+.mb-3 {
+  font-weight: bolder;
+}
+
+.navbar-brand {
+  align-items: center;
+}
+
+.container {
+  text-align: center;
+}

@@ -1,0 +1,17 @@
+.btn {
+  width: 400px;
+  height: 40px;
+  background: linear-gradient(180deg, #d15fee 0%, #9a32cd 100%);
+  border-radius: 10px;
+}
+
+.center-align {
+  font-size: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.row {
+  margin-top: 20px;
+}
